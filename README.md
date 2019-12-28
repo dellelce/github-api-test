@@ -9,3 +9,6 @@ first commit to test Github endpoints..
 
 * message for testing Github API
 
+## next version
+
+* ready
